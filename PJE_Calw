@@ -1,0 +1,11 @@
+*Para Jumping Area Calw
+*Active April 9th & April 10th
+****************************************
+
+AC R
+AN CalwPara
+AH FL120
+AL GND
+
+V X=48:42:35 N 008:46:54 E
+DC 3
