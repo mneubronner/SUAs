@@ -1,4 +1,4 @@
-*Para Jumping Area Calw
+*Para Jumping Area 
 *Active April 9th & April 10th
 ****************************************
 
@@ -9,3 +9,35 @@ AL GND
 
 V X=48:42:35 N 008:46:54 E
 DC 3
+
+AC R
+AN ParaBexbach
+AH FL120
+AL GND
+
+V X=49:20:24 N 007:15:11 E
+DC 4
+
+AC R
+AN ParaZweibrücken
+AH FL180
+AL GND
+
+V X=49:12:53 N 007:24:09 E
+DC 4
+
+AC R
+AN ParaZweibrücken
+AH FL180
+AL GND
+
+V X=49:12:53 N 007:24:09 E
+DC 4
+
+AC R
+AN GasburningAschau
+AH 2500 ft AGL
+AL GND
+
+V X=48:11:05 N 012:21:53 E
+DC 1
